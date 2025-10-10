@@ -8,7 +8,7 @@ public class InventorySystem {
 
     public static void main(String[] args) {
         // Sample data
-        users.add(new User("admin", "admin123"));
+        users.add(new User("root", "aswathy@7"));
         products.add(new Product(1, "Laptop", 10, 50000));
         products.add(new Product(2, "Mouse", 50, 500));
         suppliers.add(new Supplier(1, "Tech Supplier", "1234567890"));
